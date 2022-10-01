@@ -1,1 +1,1 @@
-# JAVA101-Student-Point-Example
+Java101 Patikası Not Ortalaması Hesaplayan Program
